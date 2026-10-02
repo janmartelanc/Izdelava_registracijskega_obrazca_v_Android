@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Izdelava registracijskega obrazca v Android Studito</string>
+    <string name="naslov"><b>Registration form</b></string>
+    <string name="name">Username</string>
+    <string name="fullname">Full name</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone number</string>
+    <string name="pass">Password</string>
+    <string name="check">Agree with terms and conditions</string>
+    <string name="gumb">Create account</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+</resources>
